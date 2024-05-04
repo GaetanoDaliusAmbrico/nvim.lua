@@ -1,15 +1,13 @@
-<<<<<<< HEAD
-# nvim.lua
-=======
-# Nnvim.conf
+# Nvim.lua
 My nvim config made from scratch, managing the workflow in neovim
 
 *Theme:* Catppuccin
 *Plugins Used:*
+
+## Plugins
 - Mason
 - neotree
 - treesitter
 - lualine
 - telescope
 - neotree
->>>>>>> b8c02f3 (first commit)
